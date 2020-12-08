@@ -1,0 +1,8 @@
+
+npm --version
+npm install -g @angular/cli
+ng --version
+ng new angular-crash-todolist
+ng serve --open
+ng generate component components/todos
+angular-crash-todolist>ng g s services/todo
