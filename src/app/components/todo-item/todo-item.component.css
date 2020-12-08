@@ -1,0 +1,7 @@
+.del {
+  background: #16030a;
+}
+
+.is-complete {
+  text-decoration: line-through;
+}
